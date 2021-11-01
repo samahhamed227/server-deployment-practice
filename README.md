@@ -6,7 +6,7 @@
 * [Heroku Link](https://samah-server-deploy-prod.herokuapp.com/) :https://samah-server-deploy-prod.herokuapp.com/
 
 * [Test Report](https://github.com/samahhamed227/server-deployment-practice/actions)
-* [Front end](http://localhost:3000/data)
+* [Front end](https://samah-server-deploy-prod.herokuapp.com/) http://localhost:3000/data
 
 ![](diag.PNG)
 
